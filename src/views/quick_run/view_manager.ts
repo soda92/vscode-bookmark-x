@@ -61,13 +61,13 @@ export class TaskDataProvider implements TreeDataProvider<QuickRunTreeItem> {
     )[0];
     let allTasks: TaskTreeItem[] = [];
     let allConfigs: TaskTreeItem[] = [];
-    if ("want to get tasks") {
+    // if ("want to get tasks") {
       allTasks = await this.getAllTasks(wsf);
-    }
-    if ("want to get launch") {
+    // }
+    // if ("want to get launch") {
       // if (workspace.getConfiguration().get("QuickRunPanel.includeDebugConfigs")) {
       allConfigs = await this.getAllLaunchConfigs(wsf);
-    }
+    // }
     return allTasks.concat(allConfigs);
   }
 
