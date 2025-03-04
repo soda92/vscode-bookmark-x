@@ -1,9 +1,9 @@
 {
-	"name": "bookmarkx",
-	"displayName": "bookmark X",
+	"name": "bookmark-y",
+	"displayName": "Bookmarks Y",
 	"description": "Drag-and-drop, grouping, sorting bookmarklet plugin",
-	"version": "0.2.16",
-	"publisher": "tommyme",
+	"version": "2025.3.4",
+	"publisher": "sodacris,tommyme",
 	"icon": "resources/icon.jpg",
 	"homepage": "https://github.com/tommyme/vscode_bookmark_x",
 	"repository": {
