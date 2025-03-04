@@ -52,11 +52,11 @@
     ],
     "menus": {
       "explorer/context": [
-        {
-          "command": "bmx.referLink.copyAigcFilesContent",
-          "when": "resourceScheme == 'file'",
-          "group": "navigation"
-        }
+        // {
+        //   "command": "bmx.referLink.copyAigcFilesContent",
+        //   "when": "resourceScheme == 'file'",
+        //   "group": "navigation"
+        // }
       ],
       "commandPalette": [
         {
