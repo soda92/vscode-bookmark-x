@@ -3,12 +3,12 @@
 	"displayName": "Bookmarks Y",
 	"description": "Drag-and-drop, grouping, sorting bookmarklet plugin",
 	"version": "2025.3.4",
-	"publisher": "sodacris,tommyme",
+	"publisher": "soda92",
 	"icon": "resources/icon.jpg",
-	"homepage": "https://github.com/tommyme/vscode_bookmark_x",
+	"homepage": "https://github.com/soda92/vscode_bookmark_x",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tommyme/vscode_bookmark_x"
+		"url": "https://github.com/soda92/vscode_bookmark_x"
 	},
 	"engines": {
 		"vscode": "^1.73.0"
